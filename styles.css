@@ -1,0 +1,15 @@
+article {
+    height: 100px;
+    border-width: 1px;
+    border-style: solid;
+}
+.logoblock {
+    text-align: left;
+    vertical-align: middle;
+}
+.image {
+    width: 50px;
+    height: 50px;
+    padding-left: 0px;
+    padding-top: 25px;    
+}
